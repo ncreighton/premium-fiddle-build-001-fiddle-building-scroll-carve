@@ -1,0 +1,2 @@
+# premium-fiddle-build-001-fiddle-building-scroll-carve
+Stop losing track of your fiddle's scroll carve progress in a notebook full of cryptic measurements. The Fiddle Building &amp; Scroll Carve Craft Studio turns your Notion into a digital luthier's bench — every chisel stroke, every graduation, every peg hole tracked with precision.  This template solves the chaos of manual tracking by providing a struct
